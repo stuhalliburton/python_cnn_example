@@ -17,6 +17,6 @@ pip install requirements.txt
 
 ```bash
 docker build -t python-cnn .
-docker run -v saved_models:/src/saved_models python-cnn python cnn_train.py
-docker run -v saved_models:/src/saved_models python-cnn python predict_cnn.py
+docker run -v $(pwd)/saved_models:/src/saved_models python-cnn python train_cnn.py
+docker run -v $(pwd)/saved_models:/src/saved_models python-cnn python predict_cnn.py
 ```
