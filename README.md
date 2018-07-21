@@ -1,5 +1,9 @@
 # Python CNN Example
 
+## Tutorial
+
+https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+
 ## Requirements
 
 - `python 2.7.*`
