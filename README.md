@@ -1,8 +1,9 @@
 # Python CNN Example
 
-## Tutorial
+## Tutorials
 
-https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+- https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+- https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 
 ## Requirements
 
